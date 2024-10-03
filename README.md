@@ -6,7 +6,7 @@
 💻 I have experience in **Front-End** and **Back-End** web development.  
 🖧 Knowledgeable in **Network Management** and IT systems.  
 🌐 Apprentice in **Web Development**.  
-🎮 Developing **videogames** and 3D modelling are some of my hobbies.  
+🎮 Developing **videogames** and **3D modelling** are some of my hobbies.  
 
 ## Personal Skills:
 
