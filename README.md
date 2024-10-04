@@ -1,4 +1,4 @@
-# Welcome! 👋, I'm Àlex  
+# <div align="center">Welcome! 👋, I'm Àlex</div>  
 #### *Computer Science* graduate at *Universitat Pompeu Fabra de Barcelona* constantly looking for new work experiences in the IT field.
 
 ## About me:
@@ -25,4 +25,33 @@
 - Self-management  
 
 ## Projects:
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/your-username/project1">
+          <img src="https://github.com/your-username/project1/raw/main/screenshot.png" width="300" />
+          <br />
+          <strong>Project 1</strong>
+        </a>
+        <p>Description of the project goes here. A brief summary of what it does.</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/your-username/project2">
+          <img src="https://github.com/your-username/project2/raw/main/screenshot.png" width="300" />
+          <br />
+          <strong>Project 2</strong>
+        </a>
+        <p>Description of the project goes here. A brief summary of what it does.</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/your-username/project3">
+          <img src="https://github.com/your-username/project3/raw/main/screenshot.png" width="300" />
+          <br />
+          <strong>Project 3</strong>
+        </a>
+        <p>Description of the project goes here. A brief summary of what it does.</p>
+      </td>
+    </tr>
+  </table>
+</div>
