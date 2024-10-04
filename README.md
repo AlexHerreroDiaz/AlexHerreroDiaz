@@ -29,12 +29,12 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/your-username/project1">
-          <img src="https://github.com/your-username/project1/raw/main/screenshot.png" width="300" />
+        <a href="https://github.com/Dunxter/iccm/">
+          <img src="https://github.com/Dunxter/iccm/blob/main/Carnatic-Trinity-by-S-Rajam.jpeg" width="300" />
           <br />
-          <strong>Project 1</strong>
+          <strong>Instrument Classification in Carnatic Music (ICCM)</strong>
         </a>
-        <p>Description of the project goes here. A brief summary of what it does.</p>
+        <p>Instrument Classification in Carnatic Music (ICCM) aims to create a tool for musicologists, musicians and enthusiasts alike to identify the presence of some of the main instruments found in a Carnatic music performance (human voice, violin, mridangam). </p>
       </td>
       <td align="center">
         <a href="https://github.com/AlexHerreroDiaz/SI_Recycling">
@@ -45,12 +45,12 @@
         <p>"Recycling Rush" is a collaborative floor-projected VR game where players control garbage trucks using hand controllers to collect, sort, and dispose of waste into the correct bins. Progressing through six rounds, players repair the factory and unlock renewable energy sources.</p>
       </td>
       <td align="center">
-        <a href="https://github.com/your-username/project3">
-          <img src="" width="300" />
+        <a href="https://github.com/jahanzeb1000/asterixiobelix">
+          <img src="https://github.com/jahanzeb1000/asterixiobelix/blob/main/Assets/Backgrounds/IntroFons.png" width="300" />
           <br />
-          <strong>Project 3</strong>
+          <strong>Asterix & Obelix: Road to God</strong>
         </a>
-        <p>Description of the project goes here. A brief summary of what it does.</p>
+        <p>Narrative videogame developed with Unity to make playable the film "The Twelve Tasks of Asterix" and adapt its sense of humour. There are several mini-games inspired by the twelve tasks of Asterix.</p>
       </td>
     </tr>
   </table>
