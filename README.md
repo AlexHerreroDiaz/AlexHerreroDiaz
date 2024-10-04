@@ -46,7 +46,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/jahanzeb1000/asterixiobelix">
-          <img src="https://github.com/jahanzeb1000/asterixiobelix/blob/main/Assets/Backgrounds/IntroFons.png" width="300" />
+          <img src="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/Asterix%26Obelix.png" width="300" />
           <br />
           <strong>Asterix & Obelix: Road to God</strong>
         </a>
@@ -62,10 +62,10 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.youtube.com/watch?v=JQzXTE7kgvg&ab_channel=%C3%80LEXHERREROD%C3%8DAZ">
-          <img src="https://img.youtube.com/vi/video_link1/0.jpg" width="300" />
-          <br />
-          <strong>Project Video 1</strong>
+        <a href="https://youtu.be/8IhUWUcWSMw">
+          <img src="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/StealthDivision.png" width="300" />
+          <br/>
+          <strong>Stealth Division</strong>
         </a>
       </td>
       <td align="center">
@@ -76,10 +76,10 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.youtube.com/watch?v=video_link2">
-          <img src="https://img.youtube.com/vi/video_link2/0.jpg" width="300" />
+        <a>
+          <img src="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/WIP_FootballGame.gif" width="300" />
           <br />
-          <strong>Project Video 2</strong>
+          <strong>[WIP] "Football game"</strong>
         </a>
       </td>
     </tr>
