@@ -37,7 +37,7 @@
         <p>Description of the project goes here. A brief summary of what it does.</p>
       </td>
       <td align="center">
-        <a href="https://github.com/AlexHerreroDiaz/SI_Recycling>
+        <a href="https://github.com/AlexHerreroDiaz/SI_Recycling">
           <img src="https://github.com/AlexHerreroDiaz/SI_Recycling/blob/main/logoGame.png" width="300" />
           <br />
           <strong>Recycling Game</strong>
