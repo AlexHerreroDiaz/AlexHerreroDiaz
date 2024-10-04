@@ -42,7 +42,7 @@
           <br />
           <strong>Recycling Game</strong>
         </a>
-        <p>Description of the project goes here. A brief summary of what it does.</p>
+        <p>"Recycling Rush" is a collaborative floor-projected VR game where players control garbage trucks using hand controllers to collect, sort, and dispose of waste into the correct bins. Progressing through six rounds, players repair the factory and unlock renewable energy sources.</p>
       </td>
       <td align="center">
         <a href="https://github.com/your-username/project3">
