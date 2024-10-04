@@ -37,16 +37,16 @@
         <p>Description of the project goes here. A brief summary of what it does.</p>
       </td>
       <td align="center">
-        <a href="https://github.com/your-username/project2">
-          <img src="https://github.com/your-username/project2/raw/main/screenshot.png" width="300" />
+        <a href="https://github.com/AlexHerreroDiaz/SI_Recycling>
+          <img src="https://github.com/AlexHerreroDiaz/SI_Recycling/blob/main/logoGame.png" width="300" />
           <br />
-          <strong>Project 2</strong>
+          <strong>Recycling Game</strong>
         </a>
         <p>Description of the project goes here. A brief summary of what it does.</p>
       </td>
       <td align="center">
         <a href="https://github.com/your-username/project3">
-          <img src="https://github.com/your-username/project3/raw/main/screenshot.png" width="300" />
+          <img src="" width="300" />
           <br />
           <strong>Project 3</strong>
         </a>
