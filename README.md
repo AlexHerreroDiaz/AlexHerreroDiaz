@@ -69,8 +69,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/AlexHerreroDiaz/2DGAME">
-          <img src="https://github.com/AlexHerreroDiaz/2DGAME/blob/main/ScreenshotGame.png" width="300" />
+        <a href="https://www.youtube.com/watch?v=JQzXTE7kgvg">
+          <img src="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/DBDImpostor.png" width="300" />
           <br />
           <strong>DBD IMPOSTOR</strong>
         </a>
