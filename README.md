@@ -55,3 +55,34 @@
     </tr>
   </table>
 </div>
+
+## More Projects...
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.youtube.com/watch?v=JQzXTE7kgvg&ab_channel=%C3%80LEXHERREROD%C3%8DAZ">
+          <img src="https://img.youtube.com/vi/video_link1/0.jpg" width="300" />
+          <br />
+          <strong>Project Video 1</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/AlexHerreroDiaz/2DGAME">
+          <img src="https://github.com/AlexHerreroDiaz/2DGAME/blob/main/ScreenshotGame.png" width="300" />
+          <br />
+          <strong>DBD IMPOSTOR</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.youtube.com/watch?v=video_link2">
+          <img src="https://img.youtube.com/vi/video_link2/0.jpg" width="300" />
+          <br />
+          <strong>Project Video 2</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
