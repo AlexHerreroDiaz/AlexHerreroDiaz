@@ -24,7 +24,7 @@
 - Teamwork  
 - Self-management  
 
-## Projects:
+## Projects 🚀
 <div align="center">
   <table>
     <tr>
@@ -67,7 +67,7 @@
   </table>
 </div>
 
-## Work in Progress
+## 🚧 Work in Progress 🚧
 
 <div align="center">
   <table>
@@ -96,7 +96,7 @@
 
 
 
-## More Projects...
+## More Projects... ➕➕
 
 
 <div align="center">
