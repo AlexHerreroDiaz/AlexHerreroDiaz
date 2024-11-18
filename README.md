@@ -108,7 +108,7 @@
           <br />
           <strong>DBD IMPOSTOR</strong>
         </a>
-        <p>DBD Impostor is a 2D videogame developed for an academic project inspired on the repairing generators of "Dead by Daylight" mechanics, developed using OpenGL and C.</p>
+        <p>DBD Impostor is a 2D videogame developed for an academic project inspired on the generator repairing mechanics of "Dead by Daylight", developed using OpenGL and C.</p>
         <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" alt="OpenGL" />
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
       </td>
