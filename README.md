@@ -34,7 +34,10 @@
           <br />
           <strong>Instrument Classification in Carnatic Music (ICCM)</strong>
         </a>
-        <p>Instrument Classification in Carnatic Music (ICCM) aims to create a tool for musicologists, musicians and enthusiasts alike to identify the presence of some of the main instruments found in a Carnatic music performance (human voice, violin, mridangam). </p>
+        <p>Instrument Classification in Carnatic Music (ICCM) aims to create a tool for musicologists, musicians and enthusiasts alike to identify the presence of some of the main instruments found in a Carnatic music performance (human voice, violin, mridangam).</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
       </td>
       <td align="center">
         <a href="https://github.com/AlexHerreroDiaz/SI_Recycling">
@@ -42,7 +45,11 @@
           <br />
           <strong>Recycling Game</strong>
         </a>
-        <p>"Recycling Rush" is a collaborative floor-projected VR game where players control garbage trucks using hand controllers to collect, sort, and dispose of waste into the correct bins. Progressing through six rounds, players repair the factory and unlock renewable energy sources.</p>
+        <p>"Recycling Game" is a collaborative floor-projected VR game where players control garbage trucks using hand controllers to collect, sort, and dispose of waste into the correct bins. Progressing through six rounds, players repair the factory and unlock renewable energy sources.</p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/Blender-000000?style=flat&logo=blender&logoColor=white" alt="Blender" />
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
       </td>
       <td align="center">
         <a href="https://github.com/jahanzeb1000/asterixiobelix">
@@ -51,36 +58,68 @@
           <strong>Asterix & Obelix: Road to God</strong>
         </a>
         <p>Narrative videogame developed with Unity to make playable the film "The Twelve Tasks of Asterix" and adapt its sense of humour. There are several mini-games inspired by the twelve tasks of Asterix.</p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/Blender-000000?style=flat&logo=blender&logoColor=white" alt="Blender" />
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
       </td>
     </tr>
   </table>
 </div>
 
+## Work in Progress
+
+<div align="center">
+  <table>
+  <tr>
+      <td align="center">
+        <a href="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/WeBallinUp/README_WBU.md">
+          <img src="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/WeBallinUp/WeBallinUP_LOGO.png" width="1500" />
+        </a>
+      </td>
+      <td align="justify">
+        <a href="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/WeBallinUp/README_WBU.md">
+          <strong>We Ballin' Up </strong>
+          <br/>
+          <br/>
+        </a>
+        <strong>We Ballin' Up is a physics-based football game focused on mastering the art of free kicks. Control the power, direction, and effect applied to the ball to score impressive goals in challenging scenarios. Defenders—including barrier defenders, basic defenders, and a goalkeeper—come with unique behaviors to make each shot count. Designed with competitive free-kick gameplay at its core, We Ballin' Up is in active development and hosted on GitHub.</strong>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/Blender-000000?style=flat&logo=blender&logoColor=white" alt="Blender" />
+      </td>
+  </tr>
+  </table>
+</div>
+
+
+
 ## More Projects...
+
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <a href="https://youtu.be/8IhUWUcWSMw">
-          <img src="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/StealthDivision.png" width="300" />
-          <br/>
-          <strong>Stealth Division</strong>
-        </a>
-      </td>
-      <td align="center">
+       <td align="center">
         <a href="https://www.youtube.com/watch?v=JQzXTE7kgvg">
           <img src="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/DBDImpostor.png" width="300" />
           <br />
           <strong>DBD IMPOSTOR</strong>
         </a>
+        <p>DBD Impostor is a 2D videogame developed for an academic project inspired on the repairing generators of "Dead by Daylight" mechanics, developed using OpenGL and C.</p>
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" alt="OpenGL" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
       </td>
       <td align="center">
-        <a>
-          <img src="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/WIP_FootballGame.gif" width="300" />
+        <a href="https://youtu.be/8IhUWUcWSMw">
+          <img src="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/StealthDivision.png" width="300" />
           <br />
-          <strong>[WIP] "Football game"</strong>
+          <strong>Stealth Division</strong>
         </a>
+        <p>Stealth Division is a 3D game developed for an academic project using OpenGL and C, where players navigate stealthy gameplay scenarios.</p>
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" alt="OpenGL" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
       </td>
     </tr>
   </table>
