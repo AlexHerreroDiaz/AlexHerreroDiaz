@@ -73,6 +73,25 @@
   <table>
   <tr>
       <td align="center">
+        <a href="#">
+          <img src="https://github.com/AlexHerreroDiaz/GeoEssentials/blob/master/screenshot/GeoEssentials_Logo.png" width="1500" />
+        </a>
+      </td>
+      <td align="justify">
+        <a href="https://github.com/AlexHerreroDiaz/GeoEssentials/tree/master">
+          <strong>GeoEssentials</strong>
+          <br/>
+          <br/>
+        </a>
+        <strong>GeoEssentials is an Android application that provides various geographical utilities, including weather information, time zone comparison, and money exchange rates for different locations. The app leverages the OpenWeather API and RESTCountries API to fetch relevant data.</strong>
+        <br/><br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio" />
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose" />
+      </td>
+  </tr>
+  <tr>
+      <td align="center">
         <a href="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/WeBallinUp/README_WBU.md">
           <img src="https://github.com/AlexHerreroDiaz/AlexHerreroDiaz/blob/main/Thumbnails/WeBallinUp/WeBallinUP_LOGO.png" width="1500" />
         </a>
@@ -93,6 +112,7 @@
   </tr>
   </table>
 </div>
+
 
 
 
